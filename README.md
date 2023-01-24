@@ -1,11 +1,11 @@
 # 🚀  Proposta  🚀
 
-A proposta principal desse repositório é praticar Programaçao Orientada a Objetos.
+A proposta principal desse repositório é praticar Programação Orientada a Objetos.
 
 ## [](https://github.com/brunovinicius07/clone-netflix#--objetivo)[](https://github.com/brunovinicius07/clone-starbucks/blob/main/README.md#--objetivo)[](https://github.com/brunovinicius07/desafio-dio-instagram#-objetvo)🎯  Objetivo
 
--   Entender Programação Orientada a Obejetos.
--   Criar um projeto com Programação Orientada a Obejetos.
+-   Entender Programação Orientada a Objetos.
+-   Criar um projeto com Programação Orientada a Objetos.
 
 <h2> 📚 Paradigma de Programação Orientado a Objetos (POO) </h2>
 
