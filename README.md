@@ -11,4 +11,4 @@ A proposta principal desse repositório é praticar Programaçao Orientada a Obj
 
 -   [IntelliJ](https://https://www.jetbrains.com/pt-br/idea/)
 
-> Esse repositório foi desenvolvido durante o Bootcamp Java e Spring da ** Digital_Innovation_One Inc.
+> Esse repositório foi desenvolvido durante o Bootcamp Java e Spring da Digital_Innovation_One Inc.
